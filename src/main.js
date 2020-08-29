@@ -1,4 +1,3 @@
-// Faremos as requisações em uma API externa, cujo endpoint já está listado abaixo.
 const API_URL = "https://api.sheety.co/30b6e400-9023-4a15-8e6c-16aa4e3b1e72";
 
 fetch(API_URL)
